@@ -76,10 +76,10 @@
         <q-img class="absolute-top" src="~assets/mountains.jpg" style="height: 192px">
           <div class="absolute-bottom bg-transparent">
             <q-avatar size="56px" class="q-mb-sm">
-              <img src="~assets/Emerson.jpeg">
+              <img src="~assets/perfill.png">
             </q-avatar>
-            <div class="text-weight-bold">Emerson Mahumane</div>
-            <div>@e_mahumane</div>
+            <div class="text-weight-bold">Arminda & Emerson</div>
+            <div>@gmail.com</div>
           </div>
         </q-img>
       </q-drawer>
